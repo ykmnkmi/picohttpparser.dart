@@ -1,0 +1,14 @@
+name: picohttpparser
+description: Dart FFI bindings to picohttpparser.
+version: 0.0.1
+repository: https://github.com/ykmnkmi/picohttpparser.dart
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.10
