@@ -7,6 +7,8 @@ analyzer:
     strict-raw-types: true
   errors:
     todo: ignore
+  enable-experiment:
+    - native-assets
 
 linter:
   rules:
